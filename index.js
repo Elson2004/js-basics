@@ -79,4 +79,3 @@ console.log(centilitres);
 let litres = centilitres / 10; 
 console.log(litres);
 
-//I've started using the git version control system
