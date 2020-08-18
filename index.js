@@ -68,8 +68,6 @@ meters = kilometers * 100;
 console.log(meters);
 console.log(centimeters);
 
-
-
 let millilitres = 5000;
 console.log(millilitres);
 
